@@ -1,4 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">CamPilot</string>
+    <string name="camera_menu">相机：手机</string>
+    <string name="lens_menu">镜头：主摄</string>
+    <string name="mode_menu">模式</string>
+    <string name="gallery">图库</string>
+    <string name="shutter">拍照</string>
+    <string name="debug">调试</string>
+    <string name="log_title">调试日志</string>
+    <string name="copy_log">复制日志</string>
+    <string name="close">关闭</string>
 </resources>
+

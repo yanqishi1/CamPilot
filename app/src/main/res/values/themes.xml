@@ -1,7 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <style name="Theme.CamPilot" parent="Theme.Material3.DayNight.NoActionBar">
-        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorSurface</item>
-        <item name="android:windowLightStatusBar">?attr/isLightTheme</item>
+    <style name="Theme.CamPilot" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/cam_bg</item>
+        <item name="android:navigationBarColor">@color/cam_bg</item>
+        <item name="android:windowBackground">@color/cam_bg</item>
+        <item name="colorPrimary">@color/cam_dark_2</item>
+        <item name="colorPrimaryVariant">@color/cam_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
     </style>
 </resources>
+

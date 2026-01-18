@@ -1,7 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="md_theme_light_primary">#0054C0</color>
-    <color name="md_theme_dark_primary">#AFC6FF</color>
-    <color name="md_theme_light_background">#FFFBFE</color>
-    <color name="md_theme_dark_background">#0b0b0f</color>
+    <color name="cam_dark">#0B1220</color>
+    <color name="cam_dark_2">#111827</color>
+    <color name="cam_text">#E2E8F0</color>
+    <color name="cam_muted">#94A3B8</color>
+    <color name="cam_bg">#0F172A</color>
+    <color name="white">#FFFFFF</color>
 </resources>
+

@@ -1,1 +1,2 @@
-# Keep rules placeholder for future shrinking configuration.
+# 保持默认即可，当前版本未开启混淆
+
